@@ -1,0 +1,10 @@
+chainlit
+openai
+langchain
+pandas
+numpy
+seaborn
+matplotlib
+Pillow
+google-generativeai
+tabulate
