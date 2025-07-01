@@ -34,22 +34,7 @@ An interactive, AI-powered application that helps users upload a CSV dataset and
 └── README.md             # Project documentation
 ```
 
-
-# Clone the repo
-
-git clone https://github.com/your-username/ai-eda-agent.git
-cd ai-eda-agent
-
-# Create virtual environment (optional but recommended)
-
-python3 -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Install dependencies
-
-pip install -r requirements.txt
-
-## Example Output
+# Example Output
 
 * Schema & Preview
 * Missing Values Summary
