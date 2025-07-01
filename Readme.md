@@ -21,19 +21,6 @@ An interactive, AI-powered application that helps users upload a CSV dataset and
 
 ---
 
-## 📂 Project Structure
-
-```bash
-.
-├── app.py                # Main application file
-├── templates/
-│   └── index.html        # Frontend upload & results UI
-├── static/
-│   └── images/           # Stores generated plots
-├── requirements.txt      # Required Python packages
-└── README.md             # Project documentation
-```
-
 # Example Output
 
 * Schema & Preview
